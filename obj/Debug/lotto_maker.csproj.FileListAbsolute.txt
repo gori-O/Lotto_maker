@@ -1,0 +1,11 @@
+C:\workSpace\lotto_maker\bin\Debug\lotto_maker.exe.config
+C:\workSpace\lotto_maker\bin\Debug\lotto_maker.exe
+C:\workSpace\lotto_maker\bin\Debug\lotto_maker.pdb
+C:\workSpace\lotto_maker\obj\Debug\lotto_maker.csproj.AssemblyReference.cache
+C:\workSpace\lotto_maker\obj\Debug\lotto_maker.csproj.SuggestedBindingRedirects.cache
+C:\workSpace\lotto_maker\obj\Debug\lotto_maker.Form1.resources
+C:\workSpace\lotto_maker\obj\Debug\lotto_maker.Properties.Resources.resources
+C:\workSpace\lotto_maker\obj\Debug\lotto_maker.csproj.GenerateResource.cache
+C:\workSpace\lotto_maker\obj\Debug\lotto_maker.csproj.CoreCompileInputs.cache
+C:\workSpace\lotto_maker\obj\Debug\lotto_maker.exe
+C:\workSpace\lotto_maker\obj\Debug\lotto_maker.pdb
